@@ -1,0 +1,34 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6fc65f07e3a83474883a9164ee43f58a, type: 3}
+  m_Name: Flower Buff
+  m_EditorClassIdentifier: 
+  Name: Flower Buff
+  Description: Buffs all characters with 100% attack for 1 turn
+  DisplayIcon: {fileID: 0}
+  SkillType: 1
+  SkillEffectType: 1
+  MaxTargets: 4
+  EffectRadius: 0
+  _isMutiTarget: 1
+  _isAOE: 0
+  CooldownTime: 10
+  ActiveDuration: 2
+  ActivationLocation: 0
+  SkillAnimation: {fileID: 198346897515987192, guid: bd76aad308d231743b8d95dd2c02d6b1,
+    type: 3}
+  AnimationDuration: 3
+  EffectDelay: 1.5
+  _StatEffects:
+  - StatName: 1
+    StatModType: 200
+    value: 1

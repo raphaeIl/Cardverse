@@ -1,0 +1,187 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a09c09d390e4b2b41827d60b7de41dd9, type: 3}
+  m_Name: Intro Cutscene
+  m_EditorClassIdentifier: 
+  StartDelay: 2
+  BackgroundMusic: 1
+  Dialogues:
+  - Dialogue: There was once a kingdom fared in gold.
+    StartDelay: 0
+    FadeInTime: 0.5
+    StayTime: 2
+    FadeOutTime: 0.5
+    EndDelay: 0
+    UseOutline: 0
+    simultaneous: 1
+    DialogueLocation: 3
+    _isCustomLocation: 1
+    CustomLocation: {x: 0.5, y: 0.65}
+  - Dialogue: A kingdom showered with the blessings it upholds
+    StartDelay: 0
+    FadeInTime: 0.5
+    StayTime: 2
+    FadeOutTime: 0.5
+    EndDelay: 0
+    UseOutline: 0
+    simultaneous: 1
+    DialogueLocation: 3
+    _isCustomLocation: 1
+    CustomLocation: {x: 0.5, y: 0.55}
+  - Dialogue: Ruled by its people, it was favored by all
+    StartDelay: 0
+    FadeInTime: 0.5
+    StayTime: 2
+    FadeOutTime: 0.5
+    EndDelay: 0
+    UseOutline: 0
+    simultaneous: 1
+    DialogueLocation: 3
+    _isCustomLocation: 1
+    CustomLocation: {x: 0.5, y: 0.45}
+  - Dialogue: A civilization of magic where everyone belonged.
+    StartDelay: 0
+    FadeInTime: 0.5
+    StayTime: 2
+    FadeOutTime: 0.5
+    EndDelay: 0
+    UseOutline: 0
+    simultaneous: 1
+    DialogueLocation: 3
+    _isCustomLocation: 1
+    CustomLocation: {x: 0.5, y: 0.35}
+  - Dialogue: Alas, humanity was struck with greed
+    StartDelay: 0
+    FadeInTime: 0.5
+    StayTime: 2
+    FadeOutTime: 0.5
+    EndDelay: 0
+    UseOutline: 0
+    simultaneous: 1
+    DialogueLocation: 3
+    _isCustomLocation: 1
+    CustomLocation: {x: 0.5, y: 0.65}
+  - Dialogue: Power and Domination was their need
+    StartDelay: 0
+    FadeInTime: 0.5
+    StayTime: 2
+    FadeOutTime: 0.5
+    EndDelay: 0
+    UseOutline: 0
+    simultaneous: 1
+    DialogueLocation: 3
+    _isCustomLocation: 1
+    CustomLocation: {x: 0.5, y: 0.55}
+  - Dialogue: thus the kingdom that once prospered for all
+    StartDelay: 0
+    FadeInTime: 0.5
+    StayTime: 2
+    FadeOutTime: 0.5
+    EndDelay: 0
+    UseOutline: 0
+    simultaneous: 1
+    DialogueLocation: 3
+    _isCustomLocation: 1
+    CustomLocation: {x: 0.5, y: 0.45}
+  - Dialogue: "Was also the cause of it\u2019s fall"
+    StartDelay: 0
+    FadeInTime: 0.5
+    StayTime: 2
+    FadeOutTime: 0.5
+    EndDelay: 0
+    UseOutline: 0
+    simultaneous: 1
+    DialogueLocation: 3
+    _isCustomLocation: 1
+    CustomLocation: {x: 0.5, y: 0.35}
+  - Dialogue: 
+    StartDelay: 0
+    FadeInTime: 0
+    StayTime: 2.5
+    FadeOutTime: 0
+    EndDelay: 0
+    UseOutline: 0
+    simultaneous: 0
+    DialogueLocation: 2
+    _isCustomLocation: 0
+    CustomLocation: {x: 0, y: 0}
+  - Dialogue: As history goes in the land of Madiyao, it has witnessed the bearings,
+      the rise and the fall of nations.
+    StartDelay: 0
+    FadeInTime: 0.2
+    StayTime: 3
+    FadeOutTime: 0.2
+    EndDelay: 0
+    UseOutline: 1
+    simultaneous: 0
+    DialogueLocation: 2
+    _isCustomLocation: 0
+    CustomLocation: {x: 0, y: 0}
+  - Dialogue: However, despite the circumstances, only four main kingdoms persisted
+      against the test of time.
+    StartDelay: 0
+    FadeInTime: 0.2
+    StayTime: 3
+    FadeOutTime: 0.2
+    EndDelay: 0
+    UseOutline: 1
+    simultaneous: 0
+    DialogueLocation: 2
+    _isCustomLocation: 0
+    CustomLocation: {x: 0, y: 0}
+  - Dialogue: Tied to the element they associate with, their strength came from the
+      numbers that destroyed outsiders.
+    StartDelay: 0
+    FadeInTime: 0.2
+    StayTime: 3
+    FadeOutTime: 0.2
+    EndDelay: 0
+    UseOutline: 1
+    simultaneous: 0
+    DialogueLocation: 2
+    _isCustomLocation: 0
+    CustomLocation: {x: 0, y: 0}
+  - Dialogue: However, as time passed with more people becoming inept with the knowledge
+      of magic,
+    StartDelay: 0
+    FadeInTime: 0.2
+    StayTime: 3
+    FadeOutTime: 0.2
+    EndDelay: 0
+    UseOutline: 1
+    simultaneous: 0
+    DialogueLocation: 2
+    _isCustomLocation: 0
+    CustomLocation: {x: 0, y: 0}
+  - Dialogue: each kingdom shall now face a new challenge against what they firmly
+      believed in.
+    StartDelay: 0
+    FadeInTime: 0.2
+    StayTime: 2
+    FadeOutTime: 0.2
+    EndDelay: 0
+    UseOutline: 1
+    simultaneous: 0
+    DialogueLocation: 2
+    _isCustomLocation: 0
+    CustomLocation: {x: 0, y: 0}
+  - Dialogue: 
+    StartDelay: 0
+    FadeInTime: 0
+    StayTime: 5
+    FadeOutTime: 0
+    EndDelay: 0
+    UseOutline: 1
+    simultaneous: 0
+    DialogueLocation: 2
+    _isCustomLocation: 0
+    CustomLocation: {x: 0, y: 0}

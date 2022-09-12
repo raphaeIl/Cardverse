@@ -1,0 +1,43 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5a549d8a27d139d43b356f62848b84f8, type: 3}
+  m_Name: Wanderer's String Kettle
+  m_EditorClassIdentifier: 
+  Name: Wanderer's String Kettle
+  DisplayIcon: {fileID: 21300000, guid: 5177383f45e2f3f4081bbc28fa22372c, type: 3}
+  Description: An ancient, strangely-shaped canteen. The interior is fitted with
+    harp strings, which play a wondrous tune as the water flows out.
+  ItemType: 1
+  Rarity: 4
+  Level: 20
+  isStackable: 0
+  Amount: 1
+  equipmentType: 6
+  equippedBonuses:
+  - StatName: 0
+    StatModType: 200
+    value: 0.466
+  - StatName: 6
+    StatModType: 100
+    value: 0.272
+  - StatName: 7
+    StatModType: 100
+    value: 0.101
+  - StatName: 1
+    StatModType: 100
+    value: 16
+  - StatName: 0
+    StatModType: 100
+    value: 14
+  - StatName: 2
+    StatModType: 100
+    value: -5

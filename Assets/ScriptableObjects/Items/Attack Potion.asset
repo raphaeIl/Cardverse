@@ -1,0 +1,38 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e2e8991fd5666fb40908f0c2c1630955, type: 3}
+  m_Name: Attack Potion
+  m_EditorClassIdentifier: 
+  <ID>k__BackingField: 22460
+  Name: Attack Potion
+  DisplayIcon: {fileID: 21300000, guid: 7d84551199576d74bb9f638fccb3b77c, type: 3}
+  Description: Halfs your hp but provides a 100% attack bonus for 5 seconds when
+    drank.
+  ItemType: 2
+  Rarity: 2
+  Level: 0
+  isStackable: 0
+  Amount: 1
+  consumableItemType: 0
+  consumedBonuses:
+  - StatName: 0
+    StatModType: 200
+    value: -0.5
+    ConsumedBonusType: 0
+    Duration: 0
+    _isTemporary: 0
+  - StatName: 1
+    StatModType: 300
+    value: 1
+    ConsumedBonusType: 1
+    Duration: 5
+    _isTemporary: 1

@@ -1,0 +1,146 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 74e3fb1219cff9942bd002eb07efec5c, type: 3}
+  m_Name: Slime
+  m_EditorClassIdentifier: 
+  Name: Slime
+  DisplaySprite: {fileID: 0}
+  ElementType: 0
+  PossibleStats:
+  - BaseValue: 50
+    StatName: 0
+    StatType: 0
+    BaseValueScalingType: 3
+    IsDepletable: 1
+    ReplenishRate: 0
+    IsElemental: 0
+    ElementType: 0
+    ElementalStatType: 0
+  - BaseValue: 1
+    StatName: 6
+    StatType: 0
+    BaseValueScalingType: 3
+    IsDepletable: 1
+    ReplenishRate: 0
+    IsElemental: 0
+    ElementType: 0
+    ElementalStatType: 0
+  - BaseValue: 1
+    StatName: 5
+    StatType: 0
+    BaseValueScalingType: 3
+    IsDepletable: 1
+    ReplenishRate: 0
+    IsElemental: 0
+    ElementType: 0
+    ElementalStatType: 0
+  - BaseValue: 50
+    StatName: 1
+    StatType: 0
+    BaseValueScalingType: 3
+    IsDepletable: 0
+    ReplenishRate: 0
+    IsElemental: 0
+    ElementType: 0
+    ElementalStatType: 0
+  PassiveStats:
+  - BaseValue: 0
+    StatName: 12
+    StatType: 1
+    BaseValueScalingType: 0
+    IsDepletable: 0
+    ReplenishRate: 0
+    IsElemental: 1
+    ElementType: 1
+    ElementalStatType: 1
+  - BaseValue: 0
+    StatName: 12
+    StatType: 1
+    BaseValueScalingType: 0
+    IsDepletable: 0
+    ReplenishRate: 0
+    IsElemental: 1
+    ElementType: 1
+    ElementalStatType: 2
+  - BaseValue: 0
+    StatName: 12
+    StatType: 1
+    BaseValueScalingType: 0
+    IsDepletable: 0
+    ReplenishRate: 0
+    IsElemental: 1
+    ElementType: 2
+    ElementalStatType: 1
+  - BaseValue: 0
+    StatName: 12
+    StatType: 1
+    BaseValueScalingType: 0
+    IsDepletable: 0
+    ReplenishRate: 0
+    IsElemental: 1
+    ElementType: 2
+    ElementalStatType: 2
+  - BaseValue: 0
+    StatName: 12
+    StatType: 1
+    BaseValueScalingType: 0
+    IsDepletable: 0
+    ReplenishRate: 0
+    IsElemental: 1
+    ElementType: 3
+    ElementalStatType: 1
+  - BaseValue: 0
+    StatName: 12
+    StatType: 1
+    BaseValueScalingType: 0
+    IsDepletable: 0
+    ReplenishRate: 0
+    IsElemental: 1
+    ElementType: 3
+    ElementalStatType: 2
+  - BaseValue: 0
+    StatName: 12
+    StatType: 1
+    BaseValueScalingType: 0
+    IsDepletable: 0
+    ReplenishRate: 0
+    IsElemental: 1
+    ElementType: 4
+    ElementalStatType: 1
+  - BaseValue: 0
+    StatName: 12
+    StatType: 1
+    BaseValueScalingType: 0
+    IsDepletable: 0
+    ReplenishRate: 0
+    IsElemental: 1
+    ElementType: 4
+    ElementalStatType: 2
+  - BaseValue: 0
+    StatName: 12
+    StatType: 1
+    BaseValueScalingType: 0
+    IsDepletable: 0
+    ReplenishRate: 0
+    IsElemental: 1
+    ElementType: 5
+    ElementalStatType: 1
+  - BaseValue: 0
+    StatName: 12
+    StatType: 1
+    BaseValueScalingType: 0
+    IsDepletable: 0
+    ReplenishRate: 0
+    IsElemental: 1
+    ElementType: 5
+    ElementalStatType: 2
+  EnemyArchetype: 0

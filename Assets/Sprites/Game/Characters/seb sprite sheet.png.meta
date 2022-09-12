@@ -1,0 +1,588 @@
+fileFormatVersion: 2
+guid: d9d94f00a86757342b3253e191f61054
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -925307263665943410
+    second: sebwalk_01
+  - first:
+      213: 9192577957866494484
+    second: sebwalk_02
+  - first:
+      213: 4549374396227988232
+    second: sebwalk_03
+  - first:
+      213: 6275500386673230337
+    second: sebwalk_04
+  - first:
+      213: 676422733540247678
+    second: sebwalk_05
+  - first:
+      213: -1475625860570134342
+    second: sebwalk_31
+  - first:
+      213: 4150008841628456820
+    second: sebwalk_11
+  - first:
+      213: -775727072988619033
+    second: sebwalk_12
+  - first:
+      213: 729074062166639602
+    second: sebwalk_13
+  - first:
+      213: -2344214742721495032
+    second: sebwalk_14
+  - first:
+      213: -4153193968242906837
+    second: sebwalk_15
+  - first:
+      213: 8100015315416184574
+    second: sebwalk_32
+  - first:
+      213: -7711233062562796033
+    second: sebwalk_21
+  - first:
+      213: 703406796897016483
+    second: sebwalk_22
+  - first:
+      213: -5976935124336401120
+    second: sebwalk_23
+  - first:
+      213: 147944413928511208
+    second: sebwalk_24
+  - first:
+      213: -6961792703452205709
+    second: sebwalk_25
+  - first:
+      213: 6294797085484358581
+    second: sebwalk_33
+  - first:
+      213: -2986826430950392678
+    second: sebwalk_34
+  - first:
+      213: 4395106480480167745
+    second: sebwalk_35
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: sebwalk_01
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1390
+        width: 300
+        height: 450
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8c4a1932f5a823f0800000000000000
+      internalID: -925307263665943410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sebwalk_02
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 1390
+        width: 300
+        height: 450
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41ad7b4c2f8929f70800000000000000
+      internalID: 9192577957866494484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sebwalk_03
+      rect:
+        serializedVersion: 2
+        x: 620
+        y: 1390
+        width: 300
+        height: 450
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80b2d65e8ef922f30800000000000000
+      internalID: 4549374396227988232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sebwalk_04
+      rect:
+        serializedVersion: 2
+        x: 930
+        y: 1390
+        width: 300
+        height: 450
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1020c774a5e071750800000000000000
+      internalID: 6275500386673230337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sebwalk_05
+      rect:
+        serializedVersion: 2
+        x: 1240
+        y: 1390
+        width: 300
+        height: 450
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e784aae64e2236900800000000000000
+      internalID: 676422733540247678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sebwalk_31
+      rect:
+        serializedVersion: 2
+        x: 1550
+        y: 1390
+        width: 300
+        height: 450
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab846571916858be0800000000000000
+      internalID: -1475625860570134342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sebwalk_11
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 930
+        width: 300
+        height: 450
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4779ef3cd0bc79930800000000000000
+      internalID: 4150008841628456820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sebwalk_12
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 930
+        width: 300
+        height: 450
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ee1cdb46501c35f0800000000000000
+      internalID: -775727072988619033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sebwalk_13
+      rect:
+        serializedVersion: 2
+        x: 620
+        y: 930
+        width: 300
+        height: 450
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f3c46a2ff03e1a00800000000000000
+      internalID: 729074062166639602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sebwalk_14
+      rect:
+        serializedVersion: 2
+        x: 930
+        y: 930
+        width: 300
+        height: 450
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8000ad69c1da77fd0800000000000000
+      internalID: -2344214742721495032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sebwalk_15
+      rect:
+        serializedVersion: 2
+        x: 1240
+        y: 930
+        width: 300
+        height: 450
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2926972714ec56c0800000000000000
+      internalID: -4153193968242906837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sebwalk_32
+      rect:
+        serializedVersion: 2
+        x: 1550
+        y: 930
+        width: 300
+        height: 450
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef6fa9e7309096070800000000000000
+      internalID: 8100015315416184574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sebwalk_21
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 470
+        width: 300
+        height: 450
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ffd62bda2623cf490800000000000000
+      internalID: -7711233062562796033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sebwalk_22
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 470
+        width: 300
+        height: 450
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3aa54a541c003c900800000000000000
+      internalID: 703406796897016483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sebwalk_23
+      rect:
+        serializedVersion: 2
+        x: 620
+        y: 470
+        width: 300
+        height: 450
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 025af5ceb29ad0da0800000000000000
+      internalID: -5976935124336401120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sebwalk_24
+      rect:
+        serializedVersion: 2
+        x: 930
+        y: 470
+        width: 300
+        height: 450
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e656be19aa9d0200800000000000000
+      internalID: 147944413928511208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sebwalk_25
+      rect:
+        serializedVersion: 2
+        x: 1240
+        y: 470
+        width: 300
+        height: 450
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37d23dedb6eb26f90800000000000000
+      internalID: -6961792703452205709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sebwalk_33
+      rect:
+        serializedVersion: 2
+        x: 1550
+        y: 470
+        width: 300
+        height: 450
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5bb9575199c9b5750800000000000000
+      internalID: 6294797085484358581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sebwalk_34
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 10
+        width: 300
+        height: 450
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9c34799f29ac86d0800000000000000
+      internalID: -2986826430950392678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sebwalk_35
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 10
+        width: 300
+        height: 450
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 147a907ce0e8efc30800000000000000
+      internalID: 4395106480480167745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
